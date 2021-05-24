@@ -1,0 +1,197 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro Education; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Folders\GameStuff\unityProjects\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/GitNHub/RE8_DisolveShader/BUTTyPOO_RE8
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52062
+Successfully changed project path to: C:/GitNHub/RE8_DisolveShader/BUTTyPOO_RE8
+C:/GitNHub/RE8_DisolveShader/BUTTyPOO_RE8
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 89.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Folders/GameStuff/unityProjects/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/GitNHub/RE8_DisolveShader/BUTTyPOO_RE8/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8079 MB
+    Driver:   27.21.14.6259
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Folders/GameStuff/unityProjects/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Folders/GameStuff/unityProjects/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Folders/GameStuff/unityProjects/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Folders/GameStuff/unityProjects/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001458 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003166 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\GitNHub\RE8_DisolveShader\BUTTyPOO_RE8\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\GitNHub\RE8_DisolveShader\BUTTyPOO_RE8\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 89.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.1 MB.
+System memory in use after: 173.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4626.
+Total: 2.748900 ms (FindLiveObjects: 0.357800 ms CreateObjectMapping: 0.307600 ms MarkObjects: 1.870000 ms  DeleteObjects: 0.211900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Project/CustomForwardRendererData.asset
+  artifactKey: Guid(31bb1637a7b66154cac330343146d231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/CustomForwardRendererData.asset using Guid(31bb1637a7b66154cac330343146d231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81419105a0525e038e951adc915527fe') in 0.031075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.897255 seconds.
+  path: Assets/_Project/Shaders/PotatoMat.mat
+  artifactKey: Guid(7b77bac917782fb4297957555d0f2b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/PotatoMat.mat using Guid(7b77bac917782fb4297957555d0f2b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da82f483774e82032a51190dc7da51f8') in 0.181522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.678012 seconds.
+  path: Assets/_Project/Shaders/shader.shadergraph
+  artifactKey: Guid(ea019a2dc6350f944be258620dfa052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/shader.shadergraph using Guid(ea019a2dc6350f944be258620dfa052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22b40a82afd56cd86efd2208cad0340') in 0.006158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.024803 seconds.
+  path: Assets/_Project/Shaders/Disolve.shadergraph
+  artifactKey: Guid(ea019a2dc6350f944be258620dfa052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Disolve.shadergraph using Guid(ea019a2dc6350f944be258620dfa052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6b51a2b0569f8549496cf3a570ba17') in 0.005432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.390770 seconds.
+  path: Assets/_Project/Shaders/DisolveShader.shadergraph
+  artifactKey: Guid(ea019a2dc6350f944be258620dfa052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/DisolveShader.shadergraph using Guid(ea019a2dc6350f944be258620dfa052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2e5100a7b7e57dbb69fd4239f5df17') in 0.005214 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003376 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\GitNHub\RE8_DisolveShader\BUTTyPOO_RE8\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\GitNHub\RE8_DisolveShader\BUTTyPOO_RE8\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4024 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.5 MB.
+System memory in use after: 171.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4704.
+Total: 2.695400 ms (FindLiveObjects: 0.320200 ms CreateObjectMapping: 0.211800 ms MarkObjects: 1.968100 ms  DeleteObjects: 0.194400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.812318 seconds.
+  path: Assets/MegaScans/AnimalSkin
+  artifactKey: Guid(071f838e88675bf48aa96ddfae7c1899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MegaScans/AnimalSkin using Guid(071f838e88675bf48aa96ddfae7c1899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d4361dab8085d938edc88727c8fd1c') in 0.011603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050383 seconds.
+  path: Assets/MegaScans/AnimalSkin/rczrN0_2K_Albedo.jpg
+  artifactKey: Guid(a0b1404498ef8224e89fc577b7e90dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MegaScans/AnimalSkin/rczrN0_2K_Albedo.jpg using Guid(a0b1404498ef8224e89fc577b7e90dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34088953e05a6c89e3ecb0c118138da8') in 0.092545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/MegaScans/AnimalSkin/rczrN0_2K_Displacement.exr
+  artifactKey: Guid(f3cf9ab5450a90a4d9fd41c2078559cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MegaScans/AnimalSkin/rczrN0_2K_Displacement.exr using Guid(f3cf9ab5450a90a4d9fd41c2078559cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba83ceff7538388a4b8fc508e575f1f9') in 0.032500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/MegaScans/AnimalSkin/rczrN0_2K_Displacement.jpg
+  artifactKey: Guid(00334d87cb8b13d429f44b1df031289b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MegaScans/AnimalSkin/rczrN0_2K_Displacement.jpg using Guid(00334d87cb8b13d429f44b1df031289b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f82efd8d1b4c610eebf18136a6faef') in 0.020022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.014636 seconds.
+  path: Assets/Plugins/Demigiant
+  artifactKey: Guid(64a7399fd146af340830239f36ce7726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant using Guid(64a7399fd146af340830239f36ce7726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41929363245fb0032b8eb6900d1a5e75') in 0.005788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.524994 seconds.
+  path: Assets/Standard Assets
+  artifactKey: Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets using Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dde5de66680e5b3784f3a17ea7ab6c4') in 0.005436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.746202 seconds.
+  path: Assets/Surfaces
+  artifactKey: Guid(e58f2f569ada6874f9dcd4feb270d8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Surfaces using Guid(e58f2f569ada6874f9dcd4feb270d8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbbe0a83aa02ca3303dc2115e015d86') in 0.005227 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002899 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\GitNHub\RE8_DisolveShader\BUTTyPOO_RE8\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\GitNHub\RE8_DisolveShader\BUTTyPOO_RE8\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4027 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.5 MB.
+System memory in use after: 183.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4754.
+Total: 2.659200 ms (FindLiveObjects: 0.298900 ms CreateObjectMapping: 0.191900 ms MarkObjects: 1.945200 ms  DeleteObjects: 0.221400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.465358 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(e9fa4c2c209b16045a0bdecc217cd227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(e9fa4c2c209b16045a0bdecc217cd227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7e07f3e1282d281ba32b312f66d432') in 0.008585 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
